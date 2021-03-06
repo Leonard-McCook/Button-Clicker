@@ -1,0 +1,12 @@
+button {
+    flex: 1;
+    font-size: 25px;
+    position: relative; left: 820px;
+    position: relative; top: 380px;
+    width: 200px;
+    border-radius: 30px;
+    height: 100px;
+    justify-content: center;
+    background-color: rgb(43, 119, 190);
+    color: rgb(255, 255, 255);
+}
